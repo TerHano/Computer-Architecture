@@ -1,0 +1,7 @@
+Input-Output format:
+Your program should accept a file as command line input. The format of a sample file “file1.txt” is shown below:
+3
+8 16
+3 57 4 92
+The first number (3) corresponds to the size of the square matrix (n). The dimensions of the matrix will be n x n. You can assume there will be no malformed input and the matrices will always contain valid integers.
+If the given matrix follows the rules for a magic square, your program should output ”magic”. If the matrix thats given is valid, but does not follow rules for a Magic Square, your program should output ”not-magic”.
