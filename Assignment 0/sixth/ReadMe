@@ -1,0 +1,7 @@
+A Program that accepts 1 single string as program argument and compresses it by counting each repeating letter that occurs in the string and the number of times it occurs in the string as such:
+Example 1:
+$./sixth aaaabbbccdaaaa a4b3c2d1a4
+Example 2:
+$./sixth abcccccccggeeccccd
+a1b1c7g2e2c4d1
+Also, if the compressed string would be longer than the original string, you must output the original string instead.
